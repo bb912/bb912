@@ -5,7 +5,7 @@
 ### About me 
 
 - 🎖 Currently finishing my Bachelors at UCF while researching remotely at Air Force Research Lab.
--    Interested in machine learning pipelines and applications, specifically reinforcement learning.
+- ⌨️ Interested in machine learning pipelines and applications, specifically reinforcement learning.
 - Actively creating an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
 - 🌱 Learning Javascript, Azure, AWS in my personal time. 
 
@@ -20,6 +20,3 @@
 
 
 </div>
-<!--
-**trinwin/trinwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
