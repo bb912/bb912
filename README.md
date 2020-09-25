@@ -6,6 +6,7 @@
 
 - 🎖 Currently finishing my Bachelors at UCF while researching remotely at Air Force Research Lab.
 -    Interested in machine learning pipelines and applications, specifically reinforcement learning.
+- Actively creating an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
 - 🌱 Learning Javascript, Azure, AWS in my personal time. 
 
 ### Checkout my [LinkedIn](https://medium.com/@trinwin) & LAMP stack [website](http://bbissey.com)
