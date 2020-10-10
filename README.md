@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Brett Bissey | Software Engineer | Machine Learning Intern | 🌏 Orlando, FL </h3>
+<h3> Brett Bissey | Software Engineer | Machine Learning Research | 🌏 Orlando, FL </h3>
 </div>
 
 ### About me 
