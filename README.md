@@ -4,7 +4,7 @@
 
 ### About me 
 
-- 🎖  Currently finishing my Computer Science B.S. at UCF while researching remotely at Griffiss Institute and Air Force Research Lab.
+- 🎖  Computer Science B.S. at UCF; Published Machine Learning Researcher.
 - ⌨️   Interested in machine learning pipelines and applications, specifically reinforcement learning.
 - 🎼  Actively creating an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
 - 🌱  Learning Javascript and getting familiar with GCP, Azure, and AWS in my personal time. 
