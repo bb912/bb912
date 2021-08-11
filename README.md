@@ -1,10 +1,10 @@
 <div align="center">
-<h3> Brett Bissey | Software Engineer | Machine Learning Research | 🌏 Orlando, FL </h3>
+<h3> Brett Bissey | Software Engineer | Machine Learning Research | 🌏 Arlington, VA</h3>
 </div>
 
 ### About me 
 
-- 🎖  Computer Science B.S. from UCF; Published Machine Learning Researcher.
+- 🎖  Computer Science B.S. from UCF; Machine Learning Researcher.
 - ⌨️   Interested in machine learning pipelines and applications, specifically reinforcement learning.
 - 🎼  Actively creating an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
 - 🌱  Learning Javascript and getting familiar with GCP, Azure, and AWS in my personal time. 
