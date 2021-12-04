@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Brett Bissey | Software Engineer | Machine Learning Research | 🌏 Arlington, VA</h3>
+<h3> Brett Bissey | Software Engineer | Machine Learning Research | 🌏 Washington, DC</h3>
 </div>
 
 ### About me 
