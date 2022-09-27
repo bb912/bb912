@@ -4,12 +4,12 @@
 
 ### About me 
 
-- Published at [AAAI-21](https://ojs.aaai.org/index.php/AAAI/article/view/17427), [ICAPS-22](https://ojs.aaai.org/index.php/ICAPS/article/view/19854/19613), and MLSP-22.
+- Reinforcement Learning researcher published at [AAAI-21](https://ojs.aaai.org/index.php/AAAI/article/view/17427), [ICAPS-22](https://ojs.aaai.org/index.php/ICAPS/article/view/19854/19613), and MLSP-22. 
 - Open Sourced Imitation Learning Research Toolkit: [ilpyt](https://github.com/mitre/ilpyt)
 - 🎖  Computer Science B.S. from UCF; Minor in Statistics
-- ⌨️   Interested in performant machine learning pipelines and scalable applications.
-- 🎼  Actively creating an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
-- 🌱  Learning Javascript and getting familiar with GCP, Azure, and AWS in my personal time. 
+- ⌨️   Experience developing performant machine learning pipelines and scalable applications.
+- 🎼  Created an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
+- 🌱  Lifelong learner, continually staying up to date with literature and tech in the AI space. 
 
 ### Checkout my [LinkedIn](https://medium.com/@trinwin) & LAMP stack [website](http://bbissey.com)
 
