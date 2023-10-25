@@ -11,7 +11,7 @@
 - 🎼  Created an educational music composition mobile application, utilizing [Magenta](https://magenta.tensorflow.org/).
 - 🌱  Lifelong learner, continually staying up to date with literature and tech in the AI & DRL space. 
 
-### Checkout my [LinkedIn](https://www.linkedin.com/in/bbissey) & LAMP stack [website](http://bbissey.com)
+### Checkout my [LinkedIn](https://www.linkedin.com/in/bisseybb) & LAMP stack [website](http://bbissey.com)
 
 <div align="center">
 
