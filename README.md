@@ -4,7 +4,7 @@
 
 ### About me 
 
-- Reinforcement Learning researcher published at [AAAI-21](https://ojs.aaai.org/index.php/AAAI/article/view/17427), [ICAPS-22](https://ojs.aaai.org/index.php/ICAPS/article/view/19854/19613), and [MLSP-22](https://ieeexplore.ieee.org/document/9943376). 
+- Reinforcement Learning researcher; [AAAI-21](https://ojs.aaai.org/index.php/AAAI/article/view/17427), [ICAPS-22](https://ojs.aaai.org/index.php/ICAPS/article/view/19854/19613), and [MLSP-22](https://ieeexplore.ieee.org/document/9943376). 
 - Open Sourced Imitation Learning Research Toolkit: [ilpyt](https://github.com/mitre/ilpyt)
 - 🎖  Computer Science B.S. from UCF; Minor in Statistics
 - ⌨️   Experience developing performant machine learning pipelines and scalable applications.
